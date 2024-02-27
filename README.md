@@ -12,7 +12,10 @@ Documentation branch was created.
 
 ### Files used
 Include the files used
-Bikeshare file added to this project
+Bikeshare file added into this project
+Chicago.csv
+Newyork.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
