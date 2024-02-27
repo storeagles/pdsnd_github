@@ -8,14 +8,14 @@ Replace the Project Title
 
 ## Description
 Describe what your project is about and what it does
-Documentation branch was created. 
+*Documentation branch was created.* 
 
 ## Files used
 Include the files used
-Bikeshare file added into this project
-Chicago.csv
-Newyork.csv
-washington.csv
+**Bikeshare file added into this project*
+*Chicago.csv*
+*Newyork.csv*
+*washington.csv**
 
 ## Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
