@@ -202,7 +202,7 @@ def user_stats(df, city):
     most_mode = df[column_name].mode()
     earliest_birth=df[column_name].min(skipna=True)
    
-    if math.isnan(earliest_birth) == False :
+    if math.isnan(earliest_birth) is False :
         earliest_birth_year = int(earliest_birth)
         print("Earliest birth year :", earliest_birth_year)
     
@@ -210,7 +210,7 @@ def user_stats(df, city):
         most_common_birth_year = int(most_mode[0])
         print("Most common birth year :", most_common_birth_year)
     
-    if math.isnan(max_birth_year) == False :
+    if math.isnan(max_birth_year) is False :
         most_recent_birth_year = int(max_birth_year)
         print("Most recent birth year :", most_recent_birth_year)
 
